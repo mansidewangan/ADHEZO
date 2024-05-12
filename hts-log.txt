@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 09 May 2024 14:20:51 at https://7oroof.com/demos/industic/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://7oroof.com/demos/industic/index.html -O1 "D:\Rani\internship\technolitics\ADHEZO" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:22:11	Error: 	"Not Found" (404) at link https://7oroof.com/demos/industic/single-industry.html (from https://7oroof.com/demos/industic/index.html)
+14:22:23	Error: 	"Not Found" (404) at link https://7oroof.com/demos/industic/assets/css/owl.video.play.png (from https://7oroof.com/demos/industic/assets/css/libraries.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 1 minutes 33 seconds : 130 links scanned, 127 files written (14039390 bytes overall) [12305329 bytes received at 132315 bytes/sec], 2766298 bytes transferred using HTTP compression in 36 files, ratio 31%, 18.5 requests per connection
+(2 errors, 0 warnings, 0 messages)
