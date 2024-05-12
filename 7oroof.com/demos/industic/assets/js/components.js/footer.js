@@ -9,7 +9,7 @@ function footerDesign(){
           <div class="row">
             <div class="col-sm-12 col-md-12 col-lg-4 footer__widget footer__widget-about  mb-30">
               <div class="footer__widget-content">
-                <img src="assets/images/logo/logo-footer.png" alt="logo">
+                <img src="assets/images/logo/Adhezo.logo.png" alt="logo">
                 <p>${WEBSITE_ADDRESS}.</p>
                 <p>Mail: <a href="mailto:${WEBSITE_EMAIL}">${WEBSITE_EMAIL}</a></p>
                 <p><a href="tel:${WEBSITE_MOBILE_NUMBER}" class="font-weight-bold color-white">${WEBSITE_MOBILE_NUMBER}</a></p>

@@ -2471,7 +2471,7 @@ textarea.form-control {
     font-size: 12px;
   }
   .navbar .logo-light {
-    max-width: 140px;
+    max-width: 10px;
   }
   .navbar-modules .modules__btns-list li:first-child {
     margin-left: 20px;
@@ -2604,6 +2604,7 @@ textarea.form-control {
   .header .logo-dark,
   .header-transparent .logo-dark {
     display: inline-block;
+    
   }
   .header .logo-light,
   .header-transparent .logo-light {
@@ -6620,6 +6621,8 @@ textarea.form-control {
     width: 300px;
     padding: 20px;
     border-radius: 10px;
+    z-index: 999;
+
 }
 
 /* Popup content */
@@ -6647,6 +6650,7 @@ form {
 
 label {
     margin-bottom: 5px;
+
 }
 
 input, button {
@@ -6654,6 +6658,7 @@ input, button {
     padding: 8px;
     border: 1px solid #ccc;
     border-radius: 5px;
+
 }
 
 button {
